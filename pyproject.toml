@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "jinaai-project"
+name = "kurly-project"
 version = "0.1.0"
-description = ""
+description = "2023년 가톨릭대학교 데이터분석 경진대회"
 authors = ["GeonWooKim","Hyeonikim","SeungYeolRyu"]
 license = "n"
 readme = "README.md"
