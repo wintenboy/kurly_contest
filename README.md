@@ -36,7 +36,6 @@ streamlit run app.py
 + 질문을 통한 답변 🎥
 + ![answer](img/beauty_answer.png)
 
-
 ## ETC
 + OPEN AI 의 API key 발급 받은 뒤 .env file에 넣어주세요.
 + 전처리 데이터 결과물은 아래의 링크에...
