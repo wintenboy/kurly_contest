@@ -38,5 +38,6 @@ streamlit run app.py
 
 
 ## ETC
-전처리 데이터 결과물은 아래의 링크에...
++ OPEN AI 의 API key 발급 받은 뒤 .env file에 넣어주세요.
++ 전처리 데이터 결과물은 아래의 링크에...
 + 💽 [구글 드라이브 : 데이터](https://drive.google.com/drive/folders/1I3eW3YMdazzknO3SW2F_bN8bnMZVE4je?usp=sharing) 💽
