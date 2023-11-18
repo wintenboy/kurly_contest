@@ -54,7 +54,7 @@ def main():
             with st.spinner("🔥🔥🔥🔥분석 중🔥🔥🔥🔥"):
                 df = load_data(uploaded_file)
                 df.dropna(axis=0, inplace=True)
-                df.drop(df[df['weight'] < 150].index, axis=0,inplace=True)
+                df.drop(df[df['weight'] < 30].index, axis=0,inplace=True)
                 # Prepare nodes and edges for agraph
                 nodes = set()
                 edges = []
